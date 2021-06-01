@@ -1,6 +1,6 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hello! I'm Seungwook Jeon
 - 🎓 I majored in **Computer Science and Engineering** in Sunmoon University (2017.03 ~ ing)
-- ⌨️  I can use `Python`, `Java`, `MySQL`, `Tensorflow`, `Keras`, `Pytorch`.
+- ⌨️  I want use `C`, `C++`, `C#`, `Java`, `JavaScript`, `TypeScript`, `Python`, `go`.
 - 🤔 #여기다가는 모토 작성
 
 ## Experience
