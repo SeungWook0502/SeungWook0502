@@ -5,7 +5,7 @@
 <img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/> ...
-
+- <img alt="last_commit" src="https://img.shields.io/github/last-commit/beygee/survive" />
 <!--
 ## Experience
 - 
