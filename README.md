@@ -1,6 +1,6 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hello! I'm Seungwook Jeon
 - 🎓 I majored in **Computer Science and Engineering** in Sunmoon University (2017.03 ~ ing)
-- ⌨️  I want use `C`, `C++`, `Go`, `C#`, `Java`, `JavaScript`, `TypeScript`, `Python`.
+- ⌨️  `C`, `JAVA`, `Go`,`JavaScript`, `Python`, `PHP`.
 
 <!--
 ## Experience
