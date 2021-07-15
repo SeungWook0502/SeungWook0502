@@ -13,7 +13,7 @@
 #### Touching
 <p align="left">
  <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/></a>&nbsp
- <img alt="English" src ="https://img.shields.io/badge/English-777BB4.svg?&style=for-the-badge"/></a>&nbsp
+ <img alt="English" src ="https://img.shields.io/badge/English-000000.svg?&style=for-the-badge"/></a>&nbsp
 </p>
 #### Saw
 <p align="left">
