@@ -1,4 +1,5 @@
 # Seungwook Jeon
+## Language
 <p align="left">
  <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/></a>&nbsp
  <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
@@ -6,6 +7,7 @@
  <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/></a>&nbsp
  <img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/></a>&nbsp
  <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/></a>&nbsp
+ <hr>
 </p>
 
 <!--
@@ -13,17 +15,16 @@
 - 
 -->
 
+<!--
 ## Project
 - [학교 동아리 홈페이지 제작 (2020.9 ~ 2020.11)](https://github.com/SeungWook0502/20_2_2_webProject)
 - [뉴스키워드 기반 실시간 이슈 분석 앱 (2021.03 ~ 2021.06)](https://github.com/SeungWook0502/Today_News)
+-->
 <!--
 ## Activity
 - 수정
 -->
 # Github Stats
-<a href='#'>
- <img src = "https://github-readme-stats.vercel.app/api?username=SeungWook0502&theme=react&show_icons=true&hide_border=true" height = "180px">
-</a>
 <a href="#">
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SeungWook0502&theme=react&layout=compact" height = "180px">
 </a>
