@@ -1,6 +1,6 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hello! I'm Seungwook Jeon
 - 🎓 I majored in **Computer Science and Engineering** in Sunmoon University (2017.03 ~ ing)
-- ⌨️  `C`,
+- ⌨️  <img alt="Python" src ="https://img.shields.io/badge/C-#A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=BLACK"/>,
 `JAVA`,
 `Go`,
 `JavaScript`,
