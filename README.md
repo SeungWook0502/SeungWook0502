@@ -32,6 +32,5 @@
   
 ## ☎️Contact me
   
-[![Today/Total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SeungWook0502&icon=github.svg&icon_color=%23E1DEDE&title=hits)](https://hits.seeyoufarm.com)
-[![GitHub](http://img.shields.io/badge/GitHub-Black?style=flat-square&logo=github&link=https://github.com/SeungWook0502)](https://github.com/SeungWook0502)
+[![Today/Total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SeungWook0502&icon=github.svg&icon_color=%23E1DEDE)](https://hits.seeyoufarm.com)
 [![Mail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SeongWook0502@gmail.com)](mailto:SeongWook0502@gmail.com)
