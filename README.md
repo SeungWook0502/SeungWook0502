@@ -1,4 +1,5 @@
 # Seungwook Jeon
+<hr>
 ## Language
 <p align="left">
  <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/></a>&nbsp
@@ -7,8 +8,8 @@
  <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/></a>&nbsp
  <img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/></a>&nbsp
  <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/></a>&nbsp
- <hr>
 </p>
+<hr>
 
 <!--
 ## Experience
@@ -29,7 +30,7 @@
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SeungWook0502&theme=react&layout=compact" height = "180px">
 </a>
 <div align=center>
- 
+<hr>
   
 ## ☎️Contact me
   
