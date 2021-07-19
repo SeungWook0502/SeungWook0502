@@ -1,6 +1,6 @@
 # Seungwook Jeon
 ## How long should I study for language to add in my Tech stack?
-### Touched
+<H2>Touched</H2>
 <p align="left">
  <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/></a>&nbsp
  <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
@@ -9,12 +9,12 @@
  <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/></a>&nbsp
  <img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/></a>&nbsp
 </p>
-### Touching
+<H2>Touching</H2>
 <p align="left">
  <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/></a>&nbsp
  <img alt="English" src ="https://img.shields.io/badge/English-000000.svg?&style=for-the-badge"/></a>&nbsp
 </p>
-### Saw
+<H2>Saw</H2>
 <p align="left">
  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/></a>&nbsp
  <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/></a>&nbsp
