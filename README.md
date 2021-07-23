@@ -8,10 +8,10 @@
  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/></a>&nbsp
  <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/></a>&nbsp
  <img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/></a>&nbsp
+ <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/></a>&nbsp
 </p>
 <H2>Touching</H2>
 <p align="left">
- <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/></a>&nbsp
  <img alt="English" src ="https://img.shields.io/badge/English-000000.svg?&style=for-the-badge"/></a>&nbsp
 </p>
 <H2>Saw</H2>
