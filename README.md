@@ -19,7 +19,7 @@
 <p align="left">
  <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/></a>&nbsp
  <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>&nbsp
- <img alt="C#" src ="https://img.shields.io/badge/C#-239120.svg?&style=for-the-badge&logo=CSharp&logoColor=white"/></a>&nbsp
+ <img alt="C#" src ="https://img.shields.io/badge/C Sharp-239120.svg?&style=for-the-badge&logo=CSharp&logoColor=white"/></a>&nbsp
  <img alt=".NET" src ="https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=.NET%2B%2B&logoColor=white"/></a>&nbsp
 </p>
 <!--
