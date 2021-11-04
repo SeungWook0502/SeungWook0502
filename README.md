@@ -1,5 +1,5 @@
 # Seungwook Jeon
-## How long should I study for language to add in my Tech stack?
+## How long should I study language for to add in my Tech stack?
 <H2>Touched</H2>
 <p align="left">
  <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/></a>&nbsp
