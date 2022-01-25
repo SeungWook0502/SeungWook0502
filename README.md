@@ -1,5 +1,4 @@
-# Seungwook Jeon
-## How long should I study language for to add in my Tech stack?
+# SW Jeon
 <H2>Project</H2>
 <p align="left">
  <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/></a>&nbsp
@@ -19,20 +18,7 @@
  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/></a>&nbsp
  <img alt="English" src ="https://img.shields.io/badge/English-000000.svg?&style=for-the-badge"/></a>&nbsp
 </p>
-<!--
-## Experience
-- 
--->
 
-<!--
-## Project
-- [학교 동아리 홈페이지 제작 (2020.9 ~ 2020.11)](https://github.com/SeungWook0502/20_2_2_webProject)
-- [뉴스키워드 기반 실시간 이슈 분석 앱 (2021.03 ~ 2021.06)](https://github.com/SeungWook0502/Today_News)
--->
-<!--
-## Activity
-- 수정
--->
 # Github Stats
 <a href="#">
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SeungWook0502&theme=react&layout=compact" height = "180px">
