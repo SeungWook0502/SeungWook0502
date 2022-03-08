@@ -29,5 +29,3 @@
   
 [![Today/Total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SeungWook0502&icon=github.svg&icon_color=%23E1DEDE)](https://hits.seeyoufarm.com)
 [![Mail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SeongWook0502@gmail.com)](mailto:SeongWook0502@gmail.com)
-
-https://drive.google.com/drive/folders/1tP24MtO8F78OpYrSttWH8C7YYwrOP1Kp?usp=sharing
