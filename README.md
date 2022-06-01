@@ -11,6 +11,7 @@
 <p align="left">
  <img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/></a>&nbsp
  <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>&nbsp
+ <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
 </p>
 <H2>Study</H2>
 <p align="left">
